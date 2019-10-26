@@ -17,7 +17,5 @@
 |           | Open and Empty       | Closes Channel; reads produces default value                                             |
 |           | Closed               | **panic**                                                                                |
 |           | Receive Only         | Compilation Error                                                                        |
-|           |                      |                                                                                          |
-|           |                      |                                                                                          |
 
 Source: *Page 76 of Concurrency in Go (by Katherine Cox-Buday)*
